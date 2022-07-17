@@ -5,4 +5,4 @@ emoji
 matplotlib
 urlextract
 wordcloud
-nltk.sentiment.vader
+nltk
